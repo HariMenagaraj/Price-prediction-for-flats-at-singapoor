@@ -28,6 +28,7 @@ The project will benefit both potential buyers and sellers in the Singapore hous
 
 ## SCREEN SHOTS
 
-![Screenshot 2025-03-13 192719](https://github.com/user-attachments/assets/fe70f1c9-e43d-4840-a42e-a7bf1f45e06c)
 ![Screenshot 2025-03-13 192704](https://github.com/user-attachments/assets/4051a0ab-a836-45a4-b290-ee2c1525c83e)
+![Screenshot 2025-03-13 192719](https://github.com/user-attachments/assets/fe70f1c9-e43d-4840-a42e-a7bf1f45e06c)
+
 
