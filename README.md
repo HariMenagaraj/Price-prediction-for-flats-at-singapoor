@@ -24,3 +24,10 @@ Thoroughly test the deployed application to ensure it functions correctly and pr
 # Data Source : (https://beta.data.gov.sg/collections/189/view)
 # Results:
 The project will benefit both potential buyers and sellers in the Singapore housing market. Buyers can use the application to estimate resale prices and make informed decisions, while sellers can get an idea of their flat's potential market value. Additionally, the project demonstrates the practical application of machine learning in real estate and web development.
+
+
+## SCREEN SHOTS
+
+![Screenshot 2025-03-13 192719](https://github.com/user-attachments/assets/fe70f1c9-e43d-4840-a42e-a7bf1f45e06c)
+![Screenshot 2025-03-13 192704](https://github.com/user-attachments/assets/4051a0ab-a836-45a4-b290-ee2c1525c83e)
+
